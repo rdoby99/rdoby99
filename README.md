@@ -1,7 +1,5 @@
 # Hi There, Nice to Meet You ✨
 
-## About Me
-
 I'm Ramona: a Frontend Engineer with growing expertise in full-stack. I've been building impactful web experiences for over 3 years.
 
 ## What I Use
