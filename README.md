@@ -1,8 +1,10 @@
 # Hi There, Nice to Meet You ✨
 
+## About Me
+
 I'm Ramona: a Frontend Engineer with growing expertise in full-stack. I've been building impactful web experiences for over 3 years.
 
-## What I use
+## What I Use
 
 <div>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript 🤩"/>
